@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/joana-fb/dummy-release/compare/v2.0.1...v2.0.2) (2024-03-06)
+
+
+### Bug Fixes
+
+* fix dummy ([10b8cd1](https://github.com/joana-fb/dummy-release/commit/10b8cd1b0db65928ca8aa1d943a60bc44084c806))
+
 ## [2.0.1](https://github.com/joana-fb/dummy-release/compare/v2.0.0...v2.0.1) (2024-03-06)
 
 
