@@ -26,4 +26,4 @@ jobs:
         if: ${{ steps.release.outputs.release_created }}
       - name: echo version
         run:
-          echo ${{steps.release.outputs.major}}
+          echo ${{steps.release.outputs.version}}
