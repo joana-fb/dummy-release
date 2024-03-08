@@ -23,7 +23,6 @@ jobs:
           # this is a built-in strategy in release-please, see "Action Inputs"
           # for more options
           release-type: simple
-        if: ${{ steps.release.outputs.release_created }}
       - name: echo version
         run:
           echo ${{steps.release.outputs.version}}
