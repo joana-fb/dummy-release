@@ -23,10 +23,8 @@ jobs:
           # this is a built-in strategy in release-please, see "Action Inputs"
           # for more options
           release-type: simple
-          skip-github-release: true
-          skip-github-pull-request: true
       - 
         # these if statements ensure that a publication only occurs when
         # a new release is created:
-        run: echo "${{ steps.release.outputs.major }}"
+        run: echo "${{ steps.release.outputs.version }}"
         
