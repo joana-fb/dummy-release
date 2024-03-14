@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.6](https://github.com/joana-fb/dummy-release/compare/v3.0.5...v3.0.6) (2024-03-14)
+
+
+### Bug Fixes
+
+* test ([61bf34a](https://github.com/joana-fb/dummy-release/commit/61bf34a3cd4a14c74f0202bcdeeb1257420fabf4))
+
 ## [3.0.5](https://github.com/joana-fb/dummy-release/compare/v3.0.4...v3.0.5) (2024-03-14)
 
 
